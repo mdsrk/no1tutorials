@@ -223,9 +223,7 @@
           <div class="col-lg-5">
             <div class="main_title">
               <h2 class="mb-3">Classroom Courses</h2>
-              <p>
-                Replenish man have thing gathering lights yielding shall you
-              </p>
+            
             </div>
           </div>
         </div>
@@ -531,9 +529,7 @@
           <div class="col-lg-5">
             <div class="main_title">
               <h2 class="mb-3 text-white">OUR FEATURES</h2>
-              <p>
-                Replenish man have thing gathering lights yielding shall you
-              </p>
+             
             </div>
           </div>
         </div>
