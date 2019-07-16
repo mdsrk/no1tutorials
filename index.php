@@ -45,7 +45,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <a class="navbar-brand logo_h" href="index.html">
+            <a class="navbar-brand logo_h" href="index.php">
               <!-- <img src="img/logo.png" alt="" -->
               <img class="responsive_logo_widescreen responsive_logo_mobilescreen " src="img/logo-shield-removebg-preview.png" alt=""/></a>
             <button
@@ -67,12 +67,12 @@
             >
               <ul class="nav navbar-nav menu_nav ml-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="index.html">Home</a>
+                  <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="about-us.html">About</a>
                 </li>
-                <li class="nav-item submenu dropdown">
+              <!--   <li class="nav-item submenu dropdown">
                   <a
                     href="#"
                     class="nav-link dropdown-toggle"
@@ -95,8 +95,8 @@
                       <a class="nav-link" href="elements.html">Elements</a>
                     </li>
                   </ul>
-                </li>
-                <li class="nav-item submenu dropdown">
+                </li> -->
+               <!--  <li class="nav-item submenu dropdown">
                   <a
                     href="#"
                     class="nav-link dropdown-toggle"
@@ -116,15 +116,15 @@
                       >
                     </li>
                   </ul>
-                </li>
-                <li class="nav-item">
+                </li> -->
+               <!--  <li class="nav-item">
                   <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-                <li class="nav-item">
+                </li> -->
+                <!-- <li class="nav-item">
                   <a href="#" class="nav-link search" id="search">
                     <i class="ti-search"></i>
                   </a>
-                </li>
+                </li> -->
               </ul>
             </div>
           </div>
