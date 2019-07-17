@@ -612,7 +612,7 @@
     <!--================ End Events Area =================-->
 
     <!--================ Start Testimonial Area =================-->
-    <div class="testimonial_area section_gap">
+<!--     <div class="testimonial_area section_gap">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-5">
@@ -732,7 +732,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!--================ End Testimonial Area =================-->
 
     <!--================ Start footer Area  =================-->
@@ -818,10 +818,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
           </p>
           <div class="col-lg-4 col-sm-12 footer-social">
-            <a href="#"><i class="ti-facebook"></i></a>
+           <a href="https://fb.me/No1Tutorial"><i class="ti-facebook"></i></a>
             <a href="#"><i class="ti-twitter"></i></a>
-            <a href="#"><i class="ti-dribbble"></i></a>
-            <a href="#"><i class="ti-linkedin"></i></a>
+            <a href="#"><i class="ti-instagram"></i></a>
           </div>
         </div>
       </div>
